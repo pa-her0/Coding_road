@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout << "YES";
+    int n;
+    cin >> n;
+    cout << n << endl;
     return 0;
 }
